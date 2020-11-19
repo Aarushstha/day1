@@ -1,0 +1,8 @@
+h2 {
+  text-align: center;
+}
+.Price {
+  display: flex;
+  align-items: center;
+  margin-left: 43%;
+}

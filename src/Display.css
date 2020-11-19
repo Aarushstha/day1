@@ -1,0 +1,39 @@
+.Cards {
+  display: flex;
+  text-align: center;
+  padding-top: 5%;
+  padding-left: 30%;
+}
+.Card {
+  border: solid;
+  width: fit-content;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.Card1 {
+  border: solid;
+  width: fit-content;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.card2 {
+  border: 2px solid;
+  width: fit-content;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.Card > button {
+  background-color: rgb(107, 26, 184);
+  color: white;
+}
+.Card2 > button {
+  background-color: rgb(107, 26, 184);
+  color: white;
+}
